@@ -2,7 +2,7 @@
 //  RedditSampleTests.swift
 //  RedditSampleTests
 //
-//  Created by Field Employee on 9/1/21.
+//  Created by Yassine Salimi on 9/12/21.
 //
 
 import XCTest
