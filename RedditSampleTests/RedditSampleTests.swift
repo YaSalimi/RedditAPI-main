@@ -62,6 +62,10 @@ class RedditSampleTests: XCTestCase {
         XCTAssertEqual(objRedditModel.geterrorDescription(), "Test Error")
         
     }
+    func test_redditViewModel_thumbnail_height () {
+        let objRedditModel = getTastableViewModel()
+        
+    }
     
     
     
